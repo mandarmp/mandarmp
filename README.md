@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mandarmp
-- 👀 I’m interested in Intelligent Biologically inspired machines.
+- 👀 I’m interested in Biologically inspired Intelligent machines.
 - 🌱 I’m currently learning Computational Neuroscience and Cognitive Robotics at the University of Birmingham.
 - 💞️ I’m looking to collaborate on topics which deal with intelligent robotics and brain machine interfaces.
 - 📫 How to reach me mandarmpatil@outlook.com 
