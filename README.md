@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mandarmp
-- 👀 I’m interested in Biologically inspired Intelligent machines.
-- 🌱 I’m currently learning Computational Neuroscience and Cognitive Robotics at the University of Birmingham.
-- 💞️ I’m looking to collaborate on topics which deal with intelligent robotics and brain machine interfaces.
+- 👀 I’m interested in Computational Neuroscience, neuroinformatics and BCI.
+- 🌱 I’m currently a Junior Specialist at UC Davis Health California.
+- 🤝 I’m looking to collaborate on topics which deal with intelligent robotics and brain machine interfaces.
 - 📫 Reach me at patilmandarmanjunath@gmail.com
 
 <!---
