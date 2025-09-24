@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @mandarmp
-- 👀 I’m interested in Computational Neuroscience, neuroinformatics and BCI.
-- 🌱 I’m currently a Junior Specialist at UC Davis Health California.
-- 🤝 I’m looking to collaborate on topics which deal with intelligent robotics and brain machine interfaces.
-- 📫 Reach me at patilmandarmanjunath@gmail.com
+# 👋 Hi, I’m Mandar Patil!
 
-<!---
-mandarmp/mandarmp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 Computational Neuroscientist
+
+- Passionate about unlocking the mysteries of the brain through data-driven discovery.
+- Specializing in **neural data analysis**, **machine learning**, and **programming** for neuroscience research.
+
+---
+
+## 💡 My Top Skills
+- Neural data analysis & electrophysiology
+- Advanced machine learning & signal processing
+- Python, MATLAB, and scientific computing
+
+---
+
+## 🚀 Featured Projects
+
+- [SpikeInterface](https://github.com/SpikeInterface/spikeinterface): Unified framework for spike sorting and neural data analysis.
+- [MEA Analysis](https://github.com/roybens/MEA_Analysis): Tools for analyzing multi-electrode array recordings.
+- [IC Fitter](https://github.com/roybens/IC_Fitter): Intracellular data fitting and analysis.
+- [Neurobootcamp Demo](https://github.com/mandarmp/neurobootcamp-demo): Educational materials and demos for neuroscience bootcamps.
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn: patilmandarm](https://www.linkedin.com/in/patilmandarm/)
+
+---
+
+> “Science is a way of thinking much more than it is a body of knowledge.” – Carl Sagan
