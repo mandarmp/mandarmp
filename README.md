@@ -16,7 +16,7 @@
 
 ## 🚀 Featured Projects
 
-- [SpikeInterface](https://github.com/SpikeInterface/spikeinterface): Unified framework for spike sorting and neural data analysis.
+
 - [MEA Analysis](https://github.com/roybens/MEA_Analysis): Tools for analyzing multi-electrode array recordings.
 - [IC Fitter](https://github.com/roybens/IC_Fitter): Intracellular data fitting and analysis.
 - [Neurobootcamp Demo](https://github.com/mandarmp/neurobootcamp-demo): Educational materials and demos for neuroscience bootcamps.
