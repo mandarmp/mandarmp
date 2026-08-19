@@ -19,7 +19,7 @@
 
 - [MEA Analysis](https://github.com/roybens/MEA_Analysis): Tools for analyzing multi-electrode array recordings.
 - [IC Fitter](https://github.com/roybens/IC_Fitter): Intracellular data fitting and analysis.
-- [Neurobootcamp Demo](https://github.com/mandarmp/neurobootcamp-demo): Educational materials and demos for neuroscience bootcamps.
+- [Cardiac MRI segmentation](https://github.com/mandarmp/Cardiac-MRI-IMAGESEG): Deep Learning model that segments cardiac MRI.
 
 ---
 
