@@ -17,7 +17,7 @@
 ## 🚀 Featured Projects
 
 
-- [MEA Analysis](https://github.com/roybens/MEA_Analysis): Tools for analyzing multi-electrode array recordings.
+- [MEA Analysis](https://github.com/BenShalomLab/MEA-Analysis): Tools for analyzing multi-electrode array recordings.
 - [IC Fitter](https://github.com/roybens/IC_Fitter): Intracellular data fitting and analysis.
 - [Cardiac MRI segmentation](https://github.com/mandarmp/Cardiac-MRI-IMAGESEG): Deep Learning model that segments cardiac MRI.
 
